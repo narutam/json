@@ -1,0 +1,90 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-5172046762647305/1284938880",
+      "admob_interstitial_id" : "ca-app-pub-5172046762647305/7221637756",
+      "admob_native_id" : "ca-app-pub-5172046762647305/8971857217",
+      "admob_rewarded_id" : "",
+      "admob_unit_id" : "ca-app-pub-5172046762647305~7850347232"
+    },
+    "appodeal" : {
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : "",
+      "facebook_native_banner_id" : ""
+    },
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_interstitial_mix" : "0",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "admob",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+     {
+      "id" : 0,
+      "imageURL" : "https://i.imgur.com/0JF7eNo.png",
+      "state" : "free",
+      "title" : "Apk Games Download",
+      "description" : "",
+       "written":"Tap APK has been optimized for velocity. It's far quick to browse the packages and search for\\nPackages with a easy and clean interface. And it is loose to download. It's far the first-class shop of free\\nApplications for Android.\\nThe view looks like it has the similar design, so that youâ€™ll have an concept approximately games organizing. Youâ€™ll\\nAdditionally discover a web page to expose you where you can find latest games."
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://i.imgur.com/pCP0qZH.png",
+      "state" : "free",
+      "title" : "Apk Games Download",
+      "description" : "",
+        "written":"Tap video games down load app is a game advice platform and a amazing network for game enthusiasts.\nIt publishes the updates approximately games and extraordinary ugc contents .\nFaucet tap apk is to be had now on android.\nBy way of the usage of tap faucet Apk you'll get the cutting-edge update of any App or video games."
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://i.imgur.com/GXwzKIG.png",
+      "state" : "free",
+      "title" : "Apk Games Download",
+      "description" : "",
+        "written":"Tap games download app is a game recommendation platform and a first-rate community for\\\\nGame enthusiasts.\\\\nTap faucet games publishes the updates about games and first rate ugc contents.\\\\nBy the use of faucet tap Apk you may get the brand new update of any App or video games like Pubg Or FF And greater.\\\\nThe new tap faucet apk is a recreation recommendation platform and a high first-rate community for games\\\\nAnd apps, and it is available now on android without spending a dime!"
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://i.imgur.com/MJ9enzs.png",
+      "state" : "free",
+      "title" : "Apk Games Download",
+      "description" : "",
+      "written":"\nTap APK has been optimized for velocity. It's far brief to browse the packages and search for\nApplications with a easy and easy interface. And it is free to down load. It is the great keep of free\nPackages for Android.\nThe view looks as if it has the same design, so youâ€™ll have an concept about video games organizing. Youâ€™ll\nAdditionally find a web page to show you wherein you could locate recent games.\n"
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://i.imgur.com/0JF7eNo.png",
+      "state" : "free",
+      "title" : "Apk Games Download",
+      "description" : "",
+        "written":"Is a video games recreation in particular designed to be completely-featured downloader sport. Tap tap apk recommends first-rate video games that have been reviewed independently via faucet tap games download app editors. Faucet faucet app downloader permits gamers to download, purchase, evaluation and talk the games"
+
+    }
+  ]
+}
